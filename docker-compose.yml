@@ -1,0 +1,6 @@
+version: "3"
+services:
+  redisai:
+    image: redisai/redisai
+    ports:
+      - "6379:6379"

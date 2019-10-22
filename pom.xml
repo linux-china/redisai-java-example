@@ -10,9 +10,9 @@
 
     <properties>
         <java.version>11</java.version>
-        <spring-boot.version>2.2.0.M4</spring-boot.version>
+        <spring-boot.version>2.2.0.RELEASE</spring-boot.version>
         <jredisai.version>0.4.0</jredisai.version>
-        <junit5.version>5.5.0-RC1</junit5.version>
+        <junit5.version>5.5.2</junit5.version>
     </properties>
 
     <dependencies>
